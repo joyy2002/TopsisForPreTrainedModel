@@ -1,0 +1,6 @@
+Model,Training_Time,Perplexity
+DistilBERT,20,3.5
+T5,30,4.2
+RoBERTa,25,3.8
+GPT-3,28,3.1
+UniLM,35,4.5
