@@ -1,6 +1,6 @@
 # Topsis_PreTrainedModel
 
-# Text Summarization Model Comparison Assignment (UCS654)
+# Text Conversational Model Comparison Assignment (UCS654)
 
 ```mermaid
 graph TD;
